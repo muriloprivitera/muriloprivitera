@@ -1,4 +1,4 @@
-## Bem vindo ao meu Ola Mundo!
+## Bem vindo!
 <div align="center">
   <a href="https://github.com/muriloprivitera">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=muriloprivitera&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
